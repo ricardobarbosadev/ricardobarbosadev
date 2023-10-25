@@ -28,11 +28,10 @@ Here are some ideas to get you started:
             
           
           
-<div align="center">
-<a href="https://github.com/ricardobarbosadev>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobarbosadev&layout=compact&langs_count=7&theme=gruvbox"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobarbosadev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobarbosadev&theme=gruvbox)](https://github.com/ricardobarbosadev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobarbosadev&theme=gruvbox)](https://github.com/ricardobarbosadev/github-readme-stats)
+
+
 <br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/ricardo-santos-barbosa1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
